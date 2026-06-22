@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%233776AB.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Awasthi08&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Awasthi08&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Awasthi08&layout=compact&theme=tokyonight" alt="Top Languages" />
