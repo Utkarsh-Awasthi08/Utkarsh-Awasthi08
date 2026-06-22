@@ -23,6 +23,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=%2361dafb)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23E34F26.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4J](https://img.shields.io/badge/neo4j-%23E34F26.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%233776AB.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
