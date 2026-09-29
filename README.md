@@ -31,4 +31,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Awasthi08&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-Awasthi08&theme=tokyonight" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Awasthi08&layout=compact&theme=tokyonight" alt="Top Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Awasthi08)](https://github.com/anuraghazra/github-readme-stats)
